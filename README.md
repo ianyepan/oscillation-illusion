@@ -8,4 +8,4 @@ Perhaps the easiest way to view the illusion is to simply open the index.html fi
 
 **Below is a preview (GIF):**
 
-<img src="./images/gif.gif" width=>
+<img src="./images/gif.gif" width=200>
